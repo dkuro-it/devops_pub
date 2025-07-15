@@ -1,2 +1,2 @@
 First project to learning git new
-Whatever 
+test branch and conflict
